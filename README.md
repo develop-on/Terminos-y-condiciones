@@ -103,10 +103,10 @@ Se entiende por propiedad del cliente a los contenidos de la base de datos carga
 
 En caso de contratar el servicio de mantenimiento debe tener en cuenta y aceptar lo siguiente:
 
-1- En caso de disponer de dominio propio no se bonificará el mismo.
-2- Se realizará hasta 1 restauración mensual de su copia de seguridad.
-3- Las modificaciones NO son acumulables, y se toma 1 imagen o 1 texto como  modificación única.
-4- La falta de pago del plan de mantenimiento web tendrá un recargo del 10%, y pasado los 3 días de su vencimiento se dará de baja su servicio provocando esto la falta de creación de copia de seguridad de su sitio web.
+1- En caso de disponer de dominio propio no se bonificará el mismo.</br>
+2- Se realizará hasta 1 restauración mensual de su copia de seguridad.</br>
+3- Las modificaciones NO son acumulables, y se toma 1 imagen o 1 texto como  modificación única.</br>
+4- La falta de pago del plan de mantenimiento web tendrá un recargo del 10%, y pasado los 3 días de su vencimiento se dará de baja su servicio provocando esto la falta de creación de copia de seguridad de su sitio web.</br>
 
 
 
