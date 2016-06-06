@@ -64,10 +64,10 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", sin garantía de ningún tipo, expresa o 
 
 ### 9. MATERIAL PROHIBIDO
 Ovnion tiene el derecho de rechazar lo siguiente:</br>
-1. Cualquier medio de comunicación que es ilegal o inapropiado;</br>
-2. Cualquier medio que contenga un virus o programa hostil;</br>
-3. Cualquier medio de comunicación que constituye acoso, racismo, violencia, obscenidad, spam o intención de hacer daño;</br>
-4. Cualquier medio de comunicación que constituye un delito penal, viola la privacidad o derechos de autor;</br>
+1. Cualquier medio de comunicación que es ilegal o inapropiado.</br>
+2. Cualquier medio que contenga un virus o programa hostil.</br>
+3. Cualquier medio de comunicación que constituye acoso, racismo, violencia, obscenidad, spam o intención de hacer daño.</br>
+4. Cualquier medio de comunicación que constituye un delito penal, viola la privacidad o derechos de autor.</br>
 5. Cualquier otro medio de cuestionables estará debajo la discreción de Ovnion.</br>
 
 
