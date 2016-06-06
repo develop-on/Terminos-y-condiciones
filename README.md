@@ -1,15 +1,15 @@
-TÉRMINOS Y CONDICIONES
+# TÉRMINOS Y CONDICIONES
 Estas sencillas cláusulas le brindarán la información que usted necesita acerca de nuestro método de trabajo, y servirán como una guía en la resolución de dudas y/o conflictos que se pudieran presentar.
 
-CONVENIO ENTRE CLIENTE Y OVNION
+### CONVENIO ENTRE CLIENTE Y OVNION
 El presente documento es un acuerdo entre usted como cliente y Ovnion como su proveedor de servicios de Desarrollo web. Al contratar los servicios de Ovnion, usted debe haber leído y aceptado los términos y condiciones redactados es este convenio, ya que en éste se enumeran los derechos y obligaciones para ambas partes.
 
-1. COTIZACIÓN Y PROPUESTA DE TRABAJO
+### 1. COTIZACIÓN Y PROPUESTA DE TRABAJO
 Nuestros precios están sujetos a cambio sin previo aviso. En el caso de que el cliente no haya contratado el proyecto y los precios hayan sido modificados, se le hará una nueva cotización con los nuevos precios.
 (1a.) Saldo a Favor
 En caso de tener un saldo favorable, este saldo se deberá utilizar en horas. No aplicarán descuentos.
 
-2. DESARROLLO DE PROYECTO
+### 2. DESARROLLO DE PROYECTO
 (2a.) Anticipo
 Antes de comenzar a trabajar cualquier proyecto, se requiere el 50% del costo total, como anticipo por nuestros servicios.
 (2b.) Proceso de Trabajo
@@ -25,7 +25,7 @@ Al ser aprobado por el Cliente, se comenzará a trabajar en el desarrollo (progr
 Al terminar el desarrollo del proyecto, se mostrará la versión BETA al Cliente, quien deberá realizar una revisión final del sitio web para asegurarse de que todos los datos están correctos, y asimismo podrá solicitar las modificaciones mencionadas en la cotización para ajustar los últimos detalles.
 Cualquier anexación de información adicional al sitio web o modificaciones a los formatos previamente aprobados, serán cotizados aparte como soporte técnico. En ocasiones será necesario finiquitar el 50% restante del proyecto antes de llevar a cabo las nuevas modificaciones. Ovnion se compromete a mantener informado al Cliente y a determinar cuál es el mejor momento para lleva a cabo dichas modificaciones, tomando en cuenta las horas de trabajo y la dificultad de las mismas.
 
-3. PAGO FINAL Y ENTREGA DEL PROYECTO
+### 3. PAGO FINAL Y ENTREGA DEL PROYECTO
 Cuando el proyecto esté terminado, se le solicitará al cliente el pago final del 50%, el cual deberá ser cubierto a más tardar durante los siguientes 10 días hábiles. Si el cliente se demora más del tiempo estipulado para finiquitar el proyecto, se le cobrará una multa del 2% sobre el pago final por día de atraso. Ovnion está exento de entregar el proyecto al cliente mientras no se haya cubierto la totalidad del pago.
 (3a.) Debugging
 La etapa de debugging tiene una garantía de 30 días y aplica solo para errores técnicos y no para cambios.
@@ -40,7 +40,7 @@ Ovnion no migrara cuentas de correo asociadas con su dominio al cambiar el hospe
 (4d.) Soporte técnico
 Aparte de lo que esta cotizado tiene un costo adicional se que se podrá cotizar o cobrar por hora.
 
-5. CANCELACIÓN DEL PROYECTO Y  DEVOLUCIONES
+### 5. CANCELACIÓN DEL PROYECTO Y  DEVOLUCIONES
 Cualquier cancelación del servicio por parte del cliente queda exenta de devolución de ninguna cantidad de dinero por parte de Ovnion.
 Ovnion tiene la libertad de cancelar o dar de baja el proyecto en caso de que el cliente, durante el desarrollo del proyecto, no cumpla con sus obligaciones en este convenio.
 Los siguientes son casos de cancelación de proyecto:
@@ -49,20 +49,20 @@ Falta de material (contenido, fotos, información clave): Si el cliente no entre
 Proyecto en pausa: Si por alguna razón de parte del cliente el proyecto se tiene que poner en pausa, se tendrá que revisar la cotización y llegar a un nuevo acuerdo.
 
 
-6. MODIFICACIONES A ESTE CONVENIO
+### 6. MODIFICACIONES A ESTE CONVENIO
 Los actuales términos y condiciones están sujetos a cambios sin previo aviso por parte de Ovnion.
 
-7. SUB-CONTRATACIÓN
+### 7. SUB-CONTRATACIÓN
 Ovnion tiene el derecho de sub-contratar para asegurar que los proyectos se desarrollen adecuadamente sin previo aviso al cliente.
 
-8. LICENCIA
+### 8. LICENCIA
 La licencia MIT (https://opensource.org/licenses/MIT) Copyright (C) <año> <titulares de derechos de autor>
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos para usar, copiar, modificar, fusionar , publicar, distribuir, sublicenciar y / o vender copias del Software, y para permitir que las personas a quienes se proporcione el Software para hacerlo, sujeto a las siguientes condiciones:
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a las garantías de comerciabilidad, aptitud para un propósito PARTICULAR Y NO. EN NINGÚN CASO LOS AUTORES O COPYRIGHT TITULARES RESPONSABLE POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN LA SOFTWARE.
 
-9. MATERIAL PROHIBIDO
+### 9. MATERIAL PROHIBIDO
 Ovnion tiene el derecho de rechazar lo siguiente:
 1. Cualquier medio de comunicación que es ilegal o inapropiado;
 2. Cualquier medio que contenga un virus o programa hostil;
@@ -71,12 +71,12 @@ Ovnion tiene el derecho de rechazar lo siguiente:
 5. Cualquier otro medio de cuestionables estará debajo la discreción de Ovnion.
 
 
-10. GARANTÍA DEL SITIO WEB
+### 10. GARANTÍA DEL SITIO WEB
 
 Garantizamos el correcto funcionamiento de nuestros desarrollos web  por el término de 6 meses, solamente si están alojados en los servidores del servicio de hosting ofrecido por Ovnion. 
 
 
-11. VALIDEZ Y ALCANCE DE LA GARANTÍA
+### 11. VALIDEZ Y ALCANCE DE LA GARANTÍA
 
 Esta garantía es válida siempre y cuando se cumplan los siguientes requisitos:
 
@@ -85,21 +85,21 @@ Esta garantía es válida siempre y cuando se cumplan los siguientes requisitos:
 3. El cliente tenga su equipo y/o dispositivo móvil actualizado.
 
 
-12. SOPORTE POST VENTA
+### 12. SOPORTE POST VENTA
 
 Dentro de los términos de la garantía del desarrollo web, todo soporte post venta sin cargo estará estrictamente limitado a reparar errores o fallos del producto atribuibles a la responsabilidad de Ovnion. Una vez entregado el sitio web al cliente (finalizado el servicio de desarrollo), cualquier solicitud posterior representará la contratación de otro servicio, no incluido en éste. Todo soporte y asistencia posteriores que el cliente utilice para actualizar, mantener, administrar, ampliar o modificar el desarrollo web o sus servicios asociados, será cobrado aparte, a menos que tenga contratado el servicio de “mantenimiento”.
 
-13. RESPONSABILIDAD LEGAL
+### 13. RESPONSABILIDAD LEGAL
 
 El cliente es el responsable de su sitio web y también el único RESPONSABLE por los contenidos y publicaciones vertidas dentro del mismo, como así también es responsable del cumplimiento de los derechos de autor por los textos, imágenes y contenidos publicados en el mismo.
 
 
-14. PROPIEDAD DEL SITIO WEB
+### 14. PROPIEDAD DEL SITIO WEB
 
 Se entiende por propiedad del cliente a los contenidos de la base de datos cargados por cualquiera de los medios estipulados para añadir o editar información en la web, los contenidos enviados por los usuarios del sitio o los administradores del mismo, ya sea textos o imágenes, los datos recogidos en la web vía formularios o newsletters o cualquier otra tecnología de intercambio de información.
 
 
-15. SERVICIO DE MANTENIMIENTO
+### 15. SERVICIO DE MANTENIMIENTO
 
 En caso de contratar el servicio de mantenimiento debe tener en cuenta y aceptar lo siguiente:
 
