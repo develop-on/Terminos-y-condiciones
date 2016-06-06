@@ -26,17 +26,17 @@ Al terminar el desarrollo del proyecto, se mostrará la versión BETA al Cliente
 Cualquier anexación de información adicional al sitio web o modificaciones a los formatos previamente aprobados, serán cotizados aparte como soporte técnico. En ocasiones será necesario finiquitar el 50% restante del proyecto antes de llevar a cabo las nuevas modificaciones. Ovnion se compromete a mantener informado al Cliente y a determinar cuál es el mejor momento para lleva a cabo dichas modificaciones, tomando en cuenta las horas de trabajo y la dificultad de las mismas.
 
 ### 3. PAGO FINAL Y ENTREGA DEL PROYECTO
-Cuando el proyecto esté terminado, se le solicitará al cliente el pago final del 50%, el cual deberá ser cubierto a más tardar durante los siguientes 10 días hábiles. Si el cliente se demora más del tiempo estipulado para finiquitar el proyecto, se le cobrará una multa del 2% sobre el pago final por día de atraso. Ovnion está exento de entregar el proyecto al cliente mientras no se haya cubierto la totalidad del pago.
+Cuando el proyecto esté terminado, se le solicitará al cliente el pago final del 50%, el cual deberá ser cubierto a más tardar durante los siguientes 10 días hábiles. Si el cliente se demora más del tiempo estipulado para finiquitar el proyecto, se le cobrará una multa del 2% sobre el pago final por día de atraso. Ovnion está exento de entregar el proyecto al cliente mientras no se haya cubierto la totalidad del pago.</br>
 (3a.) Debugging
-La etapa de debugging tiene una garantía de 30 días y aplica solo para errores técnicos y no para cambios.
+La etapa de debugging tiene una garantía de 30 días y aplica solo para errores técnicos y no para cambios.</br>
 4. CARGOS EXTRA
-Con el objeto de no afectar el presupuesto del cliente, cualquier cargo extra que pudiera generarse durante el proyecto, SIEMPRE SERÁ NOTIFICADO AL CLIENTE ANTES DE SER LLEVARDO A CABO. El cliente decidirá dar su aprobación para seguir adelante con las modificaciones, o descartarlas y continuar con lo previamente cotizado. Los cargos extras pueden ser calculados por horas de trabajo tomando en cuenta el grado de dificultad de las modificaciones, o por objeto de acuerdo a nuestra lista de precios.
+Con el objeto de no afectar el presupuesto del cliente, cualquier cargo extra que pudiera generarse durante el proyecto, SIEMPRE SERÁ NOTIFICADO AL CLIENTE ANTES DE SER LLEVARDO A CABO. El cliente decidirá dar su aprobación para seguir adelante con las modificaciones, o descartarlas y continuar con lo previamente cotizado. Los cargos extras pueden ser calculados por horas de trabajo tomando en cuenta el grado de dificultad de las modificaciones, o por objeto de acuerdo a nuestra lista de precios.</br>
 (4a.) Respaldo de sitio
-Si el cliente tiene un sitio actual en su dominio que desea respaldar, se generará un costo adicional por soporte técnico tomando en cuenta la tarifa por hora.
+Si el cliente tiene un sitio actual en su dominio que desea respaldar, se generará un costo adicional por soporte técnico tomando en cuenta la tarifa por hora.</br>
 (4b.) Dominio u Hospedaje Exterior
-Ovnion no será responsable de problemas causados por un hospedaje o dominio exterior. Tiempo gastado en configurar o averiguar problemas, hablando con su proveedor, transferiendo etc. serán cobrados como soporte técnico.
+Ovnion no será responsable de problemas causados por un hospedaje o dominio exterior. Tiempo gastado en configurar o averiguar problemas, hablando con su proveedor, transferiendo etc. serán cobrados como soporte técnico.</br>
 (4c.) Cuentas de Correo
-Ovnion no migrara cuentas de correo asociadas con su dominio al cambiar el hospedaje.
+Ovnion no migrara cuentas de correo asociadas con su dominio al cambiar el hospedaje.</br>
 (4d.) Soporte técnico
 Aparte de lo que esta cotizado tiene un costo adicional se que se podrá cotizar o cobrar por hora.
 
@@ -63,12 +63,12 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a las garantías de comerciabilidad, aptitud para un propósito PARTICULAR Y NO. EN NINGÚN CASO LOS AUTORES O COPYRIGHT TITULARES RESPONSABLE POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN LA SOFTWARE.
 
 ### 9. MATERIAL PROHIBIDO
-Ovnion tiene el derecho de rechazar lo siguiente:
-1. Cualquier medio de comunicación que es ilegal o inapropiado;
-2. Cualquier medio que contenga un virus o programa hostil;
-3. Cualquier medio de comunicación que constituye acoso, racismo, violencia, obscenidad, spam o intención de hacer daño;
-4. Cualquier medio de comunicación que constituye un delito penal, viola la privacidad o derechos de autor;
-5. Cualquier otro medio de cuestionables estará debajo la discreción de Ovnion.
+Ovnion tiene el derecho de rechazar lo siguiente:</br>
+1. Cualquier medio de comunicación que es ilegal o inapropiado;</br>
+2. Cualquier medio que contenga un virus o programa hostil;</br>
+3. Cualquier medio de comunicación que constituye acoso, racismo, violencia, obscenidad, spam o intención de hacer daño;</br>
+4. Cualquier medio de comunicación que constituye un delito penal, viola la privacidad o derechos de autor;</br>
+5. Cualquier otro medio de cuestionables estará debajo la discreción de Ovnion.</br>
 
 
 ### 10. GARANTÍA DEL SITIO WEB
