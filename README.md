@@ -5,20 +5,20 @@ Estas sencillas cláusulas le brindarán la información que usted necesita acer
 El presente documento es un acuerdo entre usted como cliente y Ovnion como su proveedor de servicios de Desarrollo web. Al contratar los servicios de Ovnion, usted debe haber leído y aceptado los términos y condiciones redactados es este convenio, ya que en éste se enumeran los derechos y obligaciones para ambas partes.
 
 ### 1. COTIZACIÓN Y PROPUESTA DE TRABAJO
-Nuestros precios están sujetos a cambio sin previo aviso. En el caso de que el cliente no haya contratado el proyecto y los precios hayan sido modificados, se le hará una nueva cotización con los nuevos precios.
+Nuestros precios están sujetos a cambio sin previo aviso. En el caso de que el cliente no haya contratado el proyecto y los precios hayan sido modificados, se le hará una nueva cotización con los nuevos precios.</br>
 (1a.) Saldo a Favor
 En caso de tener un saldo favorable, este saldo se deberá utilizar en horas. No aplicarán descuentos.
 
 ### 2. DESARROLLO DE PROYECTO
 (2a.) Anticipo
-Antes de comenzar a trabajar cualquier proyecto, se requiere el 50% del costo total, como anticipo por nuestros servicios.
-(2b.) Proceso de Trabajo
-El proceso de desarrollo se divide en cinco pasos:
-1. Recepción de la documentación: El Cliente proveé -en formato digital- la documentación necesaria para el diseño y desarrollo del proyecto.
-2. Análisis y Diseño: Ovnion diseña gráficamente el sitio web para la modificación o aprobación por parte del Cliente. 
-3. Desarrollo: Ovnion realiza la programación del sitio web.
-4. Puesta en marcha y Depuración: El cliente prueba una versión beta del sitio web para  hacer correcciones finales.
-5. Lanzamiento oficial: Ovnion publica el sitio web y le brinda al Cliente el acceso como administrador del sitio web.
+Antes de comenzar a trabajar cualquier proyecto, se requiere el 50% del costo total, como anticipo por nuestros servicios.</br>
+(2b.) Proceso de Trabajo</br>
+El proceso de desarrollo se divide en cinco pasos:</br>
+1. **Recepción de la documentación:** El Cliente proveé -en formato digital- la documentación necesaria para el diseño y desarrollo del proyecto.</br>
+2. **Análisis y Diseño:** Ovnion diseña gráficamente el sitio web para la modificación o aprobación por parte del Cliente. </br>
+3. **Desarrollo:** Ovnion realiza la programación del sitio web. </br>
+4. **Puesta en marcha y Depuración:** El cliente prueba una versión beta del sitio web para  hacer correcciones finales. </br>
+5. **Lanzamiento oficial:** Ovnion publica el sitio web y le brinda al Cliente el acceso como administrador del sitio web. </br>
 
 Ovnion le presentará al Cliente la propuesta de diseño para su aprobación o modificación. Durante esta etapa el Cliente puede solicitar las rondas que fueron explícitas dentro la cotización de cambios/modificaciones. Revisiones adicionales tendrán un costo adicional.
 Al ser aprobado por el Cliente, se comenzará a trabajar en el desarrollo (programación) del proyecto. Cualquier modificación adicional que se solicite sobre el diseño previamente aprobado generará un cargo extra. Ovnion mantendrá informado al Cliente.
