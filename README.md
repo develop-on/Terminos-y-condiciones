@@ -29,7 +29,7 @@ Cualquier anexación de información adicional al sitio web o modificaciones a l
 Cuando el proyecto esté terminado, se le solicitará al cliente el pago final del 50%, el cual deberá ser cubierto a más tardar durante los siguientes 10 días hábiles. Si el cliente se demora más del tiempo estipulado para finiquitar el proyecto, se le cobrará una multa del 2% sobre el pago final por día de atraso. Ovnion está exento de entregar el proyecto al cliente mientras no se haya cubierto la totalidad del pago.</br>
 (3a.) Debugging
 La etapa de debugging tiene una garantía de 30 días y aplica solo para errores técnicos y no para cambios.</br>
-4. CARGOS EXTRA
+### 4. CARGOS EXTRA
 Con el objeto de no afectar el presupuesto del cliente, cualquier cargo extra que pudiera generarse durante el proyecto, SIEMPRE SERÁ NOTIFICADO AL CLIENTE ANTES DE SER LLEVARDO A CABO. El cliente decidirá dar su aprobación para seguir adelante con las modificaciones, o descartarlas y continuar con lo previamente cotizado. Los cargos extras pueden ser calculados por horas de trabajo tomando en cuenta el grado de dificultad de las modificaciones, o por objeto de acuerdo a nuestra lista de precios.</br>
 (4a.) Respaldo de sitio
 Si el cliente tiene un sitio actual en su dominio que desea respaldar, se generará un costo adicional por soporte técnico tomando en cuenta la tarifa por hora.</br>
